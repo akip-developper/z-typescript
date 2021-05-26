@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/akip-developper/z-typescript/issues"
   },
-  "homepage": "https://github.com/akip-developper/z-typescript#readme"
+  "homepage": "https://github.com/akip-developper/z-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
 }
