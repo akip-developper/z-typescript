@@ -1,0 +1,19 @@
+{
+  "name": "z-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akip-developper/z-typescript.git"
+  },
+  "author": "A.Y",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akip-developper/z-typescript/issues"
+  },
+  "homepage": "https://github.com/akip-developper/z-typescript#readme"
+}
